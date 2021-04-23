@@ -18,7 +18,7 @@ This repo contains jupyter notebooks and a Flask app that query for weather data
 ### Routes
 
 * `/`
-    * Home page - lists all routes that are available.
+    * Returns a list of all routes that are available.
 
 * `/api/v1.0/precipitation`
     * Returns a dictionary of all measurements using `date` as the key and `prcp` as the value.
