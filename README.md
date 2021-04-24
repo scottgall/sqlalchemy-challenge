@@ -37,7 +37,7 @@ This repo contains jupyter notebooks and a Flask app that query for weather data
 ### Bonus Analysis I
 
 * Average temp for a year of data displayed as a bar plot with the ends of the error bar representing the peak-to-peak temperature difference from max to min.
-![daily normals](Images/daily_normals.png)
+![daily normals](Images/avg_temp.png)
 
 
 ### Bonus Analysis II
