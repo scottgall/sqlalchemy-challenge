@@ -9,7 +9,7 @@ This repo contains jupyter notebooks and a Flask app that query for weather data
 
 ## Station Analysis
 
-![temperaure-graph](Images/temp.png)
+![temperaure-graph](Images/temperature.png)
 
 
 ## Flask API
@@ -38,12 +38,12 @@ This repo contains jupyter notebooks and a Flask app that query for weather data
 
 * Average temp for a year of data displayed as a bar plot with the ends of the error bar representing the peak-to-peak temperature difference from max to min.
 
-![Avg temp](Images/avg_temp.png)
+![Avg temp](Images/avg.png)
 
 
 ### Bonus Analysis II
 
 * Daily temp normals for a week of data displayed as an area plot.
 
-![Daily normals](Images/daily_normals.png)
+![Daily normals](Images/normals.png)
 
