@@ -5,7 +5,7 @@ This repo contains jupyter notebooks and a Flask app that query for weather data
 
 ## Precipitation Analysis 
 
-![precipitation-graph](Images/precip.png)
+![precipitation-graph](Images/precipitation.png)
 
 ## Station Analysis
 
